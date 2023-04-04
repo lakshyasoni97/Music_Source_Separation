@@ -28,3 +28,4 @@ FastICA: https://scikit-learn.org/stable/modules/generated/sklearn.decomposition
 
 Since the file is too large for github to display, you can follow the following link to colab to directly access the notebook
 https://colab.research.google.com/drive/1pbLjG3HKaQk_78vwZLMSQt2xMZDo0Ew5?usp=sharing
+https://colab.research.google.com/drive/1MRzGr9YSP8nQoMigL5RUvshx6eNWCKib?usp=sharing
